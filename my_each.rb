@@ -4,5 +4,4 @@ def my_each(words)
     "#{items}"
     counter +=1
   end
-  words
 end
