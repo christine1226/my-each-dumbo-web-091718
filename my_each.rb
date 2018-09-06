@@ -1,7 +1,7 @@
-def my_each(array)
-  i=0
-  while i<array.length  do |words|
-    puts "#{words}"
-    i +=1
+def my_each(words)
+  counter =0
+  while i<words.length  do |items|
+    "#{items}"
+    counter +=1
   end
 end
